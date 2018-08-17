@@ -1,0 +1,9 @@
+Package: com.andyjhall.internaltext
+Name: InternalText
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Internal Text on Lockscreen
+Maintainer: Andy Hall
+Author: Andy Hall
+Section: Tweaks
